@@ -103,13 +103,3 @@ The model achieved high accuracy on test data and successfully predicted disease
 * Add multi-disease prediction system
 
 ---
-
-## 🙋‍♂️ Author
-
-Jayesh
-
----
-
-## ⭐ If you like this project
-
-Give it a star ⭐ on GitHub!
