@@ -12,7 +12,7 @@ from sklearn.metrics import accuracy_score, classification_report, confusion_mat
 
 # 2. Load dataset
 
-df = pd.read_csv(r"D:\blood.csv")
+df = pd.read_csv(r"D:\blood.csv") #file location
 
 # 3. Basic understanding (EDA)
 
